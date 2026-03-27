@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack web appliactions.<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about frontend web development<br>⚡ Fun fact i am not a geek
+🔭 I’m currently working on Full Stack web appliactions.<br>🌱 I’m currently learning and evolving.<br>💬 Ask me about full stack web development<br>⚡ Fun fact i am not a geek
 
 
 ## 🌐 Socials:
