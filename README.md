@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack web appliactions.<br>🌱 I’m currently learning and evolving.<br>💬 Ask me about full stack web development<br>⚡ Fun fact i am not a geek
+
+```js
+const rohit = {
+  role: "Full Stack Developer",
+  building: ["MERN apps", "REST APIs", "distributed task queues"],
+  learning: "system design & TypeScript",
+  askMeAbout: "full stack web development",
+  funFact: "I debug with console.log and zero shame 😅",
+  status: "always shipping",
+};
+```
 
 
 ## 🌐 Socials:
